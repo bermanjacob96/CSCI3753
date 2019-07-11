@@ -1,0 +1,36 @@
+CS3753 (Operating Systems)
+Fall 2016
+University of Colorado Boulder
+Programming Assignment 4
+Public Code
+
+Originally prepared by Andy Sayler - 2012
+With help from Junho Ahn - 2012
+
+Revised by Shivakant Mishra - Fall 2016
+
+
+
+---Folders---
+handout - Assignment description and documentation
+
+---Executables---
+./looptest - A bash script for running test cases
+./pi - A simple program for statistically calculating pi
+             a specific scheduling policy
+./rw - A simple i/o bound example program.
+./PA4_TESTS - Main test program that is called by the 
+		shell script and takes in all of the arguments
+---Examples---
+Build:
+ make
+
+Clean:
+ make clean
+
+To run:
+
+sh looptest.sh
+
+
+

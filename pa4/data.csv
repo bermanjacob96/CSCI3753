@@ -1,0 +1,17 @@
+Schedule, Wall Clock Time (sec), Total User Mode CPU Seconds, Total Kernel Mode CPU Seconds, CPU Percentage, Total Non-Voluntary Context Switches, Total Voluntary Context Switches, # Processes
+Command terminated by signal 11
+SCHED_OTHER, 0.94, 0.61, 0.05, 71%, 1232, 26
+Command terminated by signal 11
+SCHED_OTHER, 0.84, 0.55, 0.05, 71%, 950, 20
+Command terminated by signal 11
+SCHED_OTHER, 0.63, 0.44, 0.00, 71%, 180, 20
+SCHED_OTHER, 0.40, 0.58, 0.01, 147%, 215, 16
+SCHED_OTHER, 0.34, 0.49, 0.02, 149%, 357, 16
+SCHED_OTHER, 0.27, 0.46, 0.00, 171%, 157, 21
+SCHED_OTHER, 1.30, 2.28, 0.03, 177%, 1288, 61
+SCHED_OTHER, 1.38, 2.30, 0.06, 171%, 1821, 60
+SCHED_OTHER, 1.51, 2.59, 0.05, 174%, 1841, 61
+SCHED_OTHER, 1.41, 2.44, 0.05, 176%, 998, 58
+SCHED_OTHER, 1.44, 2.35, 0.04, 166%, 2005, 60
+Command terminated by signal 2
+SCHED_OTHER, 1.42, 0.17, 0.00, 12%, 206, 10
